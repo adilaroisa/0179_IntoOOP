@@ -17,7 +17,8 @@ class Mahasiswa {
 
 
 class Matakuliah {
-   
+    private:
+    
 };
 
 
