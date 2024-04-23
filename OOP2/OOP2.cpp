@@ -28,10 +28,11 @@ class bangunDatar {
         }
 }; 
 
+int main(){
+    bangunDatar pp;
+    pp.input();
+    pp.display();
 
-
-int main()
-{
-    
+    return 0;
 }
 
