@@ -9,8 +9,15 @@ class bangunDatar {
     public:
         float luas;
 
-};
+        void input() {
 
+            cout << "Masukan Panjangnya = ";
+            cin >> panjang;
+            cout << "Masukan Lebarnya = ";
+            cin >> lebar;
+        }
+
+}; 
 
 
 
